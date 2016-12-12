@@ -75,6 +75,24 @@ start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=analytics&s
 REM indeed_marketing
 start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=marketing&sort=date
 
+http://www.indeed.com.sg/jobs?q=digital&sort=date
+http://www.indeed.com.sg/jobs?q=analyst&sort=date
+http://www.indeed.com.sg/jobs?q=plotly&sort=date
+http://www.indeed.com.sg/jobs?q=quantmod&sort=date
+http://www.indeed.com.sg/jobs?q=nltk&sort=date
+http://www.indeed.com.sg/jobs?q=ggplot&sort=date
+http://www.indeed.com.sg/jobs?q=pandas&sort=date
+http://www.indeed.com.sg/jobs?q=salesforce&sort=date
+http://www.indeed.com.sg/jobs?q=clustering&sort=date
+http://www.indeed.com.sg/jobs?q=hubspot&sort=date
+http://www.indeed.com.sg/jobs?q=omniture&sort=date
+http://www.indeed.com.sg/jobs?q=pardot&sort=date
+http://www.indeed.com.sg/jobs?q=google+analytics&sort=date
+http://www.indeed.com.sg/jobs?q=marketo&sort=date
+http://www.indeed.com.sg/jobs?q=tableau&sort=date
+http://www.indeed.com.sg/jobs?q=eloqua&sort=date
+http://www.indeed.com.sg/jobs?q=R+programming&sort=date
+
 
 
 
