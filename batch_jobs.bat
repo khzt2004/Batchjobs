@@ -66,35 +66,53 @@ start Firefox --args -private-window http://www.jobstreet.com.sg/en/job-search/j
 REM indeed_python
 start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=python&sort=date
 
-REM indeed_crm
-start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=crm&sort=date
+REM indeed_digital
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=digital&sort=date
 
-REM indeed_analytics
-start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=analytics&sort=date
+REM indeed_analyst
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=analyst&sort=date
 
-REM indeed_marketing
-start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=marketing&sort=date
+REM indeed_plotly
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=plotly&sort=date
 
-http://www.indeed.com.sg/jobs?q=digital&sort=date
-http://www.indeed.com.sg/jobs?q=analyst&sort=date
-http://www.indeed.com.sg/jobs?q=plotly&sort=date
-http://www.indeed.com.sg/jobs?q=quantmod&sort=date
-http://www.indeed.com.sg/jobs?q=nltk&sort=date
-http://www.indeed.com.sg/jobs?q=ggplot&sort=date
-http://www.indeed.com.sg/jobs?q=pandas&sort=date
-http://www.indeed.com.sg/jobs?q=salesforce&sort=date
-http://www.indeed.com.sg/jobs?q=clustering&sort=date
-http://www.indeed.com.sg/jobs?q=hubspot&sort=date
-http://www.indeed.com.sg/jobs?q=omniture&sort=date
-http://www.indeed.com.sg/jobs?q=pardot&sort=date
-http://www.indeed.com.sg/jobs?q=google+analytics&sort=date
-http://www.indeed.com.sg/jobs?q=marketo&sort=date
-http://www.indeed.com.sg/jobs?q=tableau&sort=date
-http://www.indeed.com.sg/jobs?q=eloqua&sort=date
-http://www.indeed.com.sg/jobs?q=R+programming&sort=date
+REM indeed_quantmod
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=quantmod&sort=date
 
+REM indeed_nltk
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=nltk&sort=date
 
+REM indeed_ggplot
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=ggplot&sort=date
 
+REM indeed_pandas
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=pandas&sort=date
 
+REM indeed_salesforce
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=salesforce&sort=date
 
+REM indeed_clustering
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=clustering&sort=date
 
+REM indeed_hubspot
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=hubspot&sort=date
+
+REM indeed_omniture
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=omniture&sort=date
+
+REM indeed_pardot
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=pardot&sort=date
+
+REM indeed_googleanalytics
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=google+analytics&sort=date
+
+REM indeed_marketo
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=marketo&sort=date
+
+REM indeed_tableau
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=tableau&sort=date
+
+REM indeed_eloqua
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=eloqua&sort=date
+
+REM indeed_Rprogramming
+start Firefox --args -private-window http://www.indeed.com.sg/jobs?q=R+programming&sort=date
